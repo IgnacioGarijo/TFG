@@ -9,4 +9,4 @@ Decidí hacerlo de esta manera porque el primer archivo estaba quedando demasiad
 
 No obstante, como acabo de mencionar, el archivo está organizado en bloques y sub-bloques.
 
-Para correr el código, habría que cargar los datos. Esto se puede hacer de dos maneras. La primera y más sencilla es con el archivo de datos (que incluye todos los ficheros menos los de la EPA) que creé. La segunda es cargando archivo a archivo, para lo que habría que descargarlos todos y quitar todos los "#" del principio para construir y cargar correctamente los dataframe. Como el archivo de datos es de 
+Para correr el código, habría que cargar los datos. Esto se puede hacer de dos maneras. La primera y más sencilla es con el archivo de datos de R (que incluye todos los ficheros menos los de la EPA) que creé. La segunda es cargando archivo a archivo, para lo que habría que descargarlos todos y quitar todos los "#" del principio para construir y cargar correctamente los dataframe. Como el archivo de datos es demasiado grande para Github (29mb y el límite es 25) puedo enviar el archivo por otro medio a quien esté interesado sin ningún problema. 
