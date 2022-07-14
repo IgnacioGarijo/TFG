@@ -1,5 +1,5 @@
-# TFG
-Los jóvenes españoles y la eterna Gran Depresión: radiografía de su situación socioeconómica 12 años después
+# Los jóvenes españoles y la eterna Gran Depresión: radiografía de su situación socioeconómica 12 años después
+
 He subido 3 archivos con códigos de R:
   - El primero es Codigo.R, el principal. En este se encuentra el código de la mayor parte del trabajo, a excepción de los gráficos de cuantiles y de mercado laboral. 
   - El segundo es EPA.R, donde se encuentra todo el trabajo realizado sobre los ficheros de la Encuesta de Población Activa, es decir, del mercado laboral.
